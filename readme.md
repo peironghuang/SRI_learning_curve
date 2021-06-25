@@ -8,7 +8,7 @@
 
 - Software and Versions
 
-  We used *R (3.3.2)* and *Stata (15.1)* during the research. In addition, *RStudio (1.0.153)* is also used as an IDE of *R*. All the installation packages of the software are included in folder "0-software".
+  We used *R (3.3.2)* and *Stata (15.1)* during the research. In addition, *RStudio (1.0.153)* is also used as an IDE of *R*. 
 
 ## **2. Installation Guide**
 
